@@ -25,5 +25,5 @@ THEN I am presented with the last searched city forecast
 
 ## Links
 
-Deployed:
-Repo:https://github.com/justinkvang/Weather-Dashboard
+- Deployed:https://justinkvang.github.io/Weather-Dashboard/
+- Repo:https://github.com/justinkvang/Weather-Dashboard
